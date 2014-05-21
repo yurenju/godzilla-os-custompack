@@ -7,7 +7,9 @@ $ cd <GAIA_DIR>
 $ MOZILLA_OFFICIAL=1 GAIA_DISTRIBUTION_DIR=<GODZILLA_CUSTOM_PACK_DIR> make production
 ```
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/4073EqNSiH0" frameborder="0" allowfullscreen></iframe>
+[![DEMO video](http://img.youtube.com/vi/4073EqNSiH0/0.jpg)](http://www.youtube.com/watch?v=4073EqNSiH0)
+
+http://www.youtube.com/watch?v=4073EqNSiH0
 
 # Credit
 all graphic design comes from O'lee Graphiste and I just use the images to customize
